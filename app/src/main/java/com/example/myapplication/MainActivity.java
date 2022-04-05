@@ -17,6 +17,15 @@ public class MainActivity extends AppCompatActivity {
         t1=findViewById(R.id.textview_1);
         t2=findViewById(R.id.textview_2);
         t2=findViewById(R.id.textview_2);
+        t2=findViewById(R.id.textview_2);
+        t2=findViewById(R.id.textview_2);
+        t2=findViewById(R.id.textview_2);
+        t2=findViewById(R.id.textview_2);
+        t2=findViewById(R.id.textview_2);
+        t2=findViewById(R.id.textview_2);
+        t2=findViewById(R.id.textview_2);
+
+
 
     }
 
